@@ -1,0 +1,1 @@
+It's a sample file to try git sincronization
